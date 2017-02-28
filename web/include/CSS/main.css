@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 18, 2017, 9:04:54 PM
+    Author     : Arash
+*/
+.blue { /* the dot before the name indicates class */
+    color: blue;
+}
+
+#second_label { /* # indicates that we are using an id */
+    color:aquamarine;
+}
+.red {
+    color:red;
+}
+
+.index {
+    color: white;
+}
+.action { /* the dot before the name indicates class */
+    color: red;
+}
+
+.animated { /* # indicates that we are using an id */
+    color:yellow;
+}
+.comedy {
+    color:orange;
+}
+
+.Drama {
+    color:purple;
+}
