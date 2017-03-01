@@ -71,14 +71,14 @@ and open the template in the editor.
 
 .no_star { 
     display: inline-block; 
-    background: url("images/star.png") no-repeat;
+    background: url("images/clipperboard.png") no-repeat;
     width: 16px; 
     height: 16px 
 }
 
 .star { 
     display: inline-block;
-    background: url("images/star.png") no-repeat; 
+    background: url("images/clipperboard.png") no-repeat; 
     background-position: 0 -16px; 
     width: 16px; 
     height: 16px 
@@ -86,7 +86,7 @@ and open the template in the editor.
 
 .star_hover { 
     display: inline-block; 
-    background: url("images/star.png") no-repeat; 
+    background: url("images/clipperboard.png") no-repeat; 
     background-position: 0 -32px; 
     width: 16px; 
     height: 16px
@@ -94,7 +94,7 @@ and open the template in the editor.
 
 .star_selected { 
     display: inline-block; 
-    background: url("design/star.png") no-repeat; 
+    background: url("design/clipperboard.png") no-repeat; 
     background-position: 0 -48px; 
     width: 16px; 
     height: 16px }
