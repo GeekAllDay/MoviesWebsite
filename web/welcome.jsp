@@ -45,10 +45,10 @@
                     <input type="hidden" name="genre" value="Drama"/>
                     <input class="button drama" type="submit" value="Drama"/>
                 </form>
-            
-        </div>
             <div>
                 <jsp:include page="footer.jsp"/>
             </div>
+        </div>
+            
     </body>
 </html>
