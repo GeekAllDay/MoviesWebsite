@@ -37,7 +37,7 @@
                  <form action="listOfMovies" method="post">
                     <input type="hidden" name="action" value="chooseMovies"/>
                     <input type="hidden" name="genre" value="Comedy"/>
-                    <input class="button comedy" value="Comedy"/>
+                    <input class="button comedy" type="submit" value="Comedy"/>
                 </form>
                 
                  <form action="listOfMovies" method="post">
