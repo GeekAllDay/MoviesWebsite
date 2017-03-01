@@ -20,7 +20,8 @@ import java.util.ArrayList;
 public class movieLists {
         private static String db_URL = "jdbc:mysql://localhost:3306/sys";
         private static String db_username = "root";
-        private static String db_password = "abbasalidehdari";
+        private static String db_password = "lin94538";
+        //private static String db_password = "abbasalidehdari";
         public static List<String> setMovieList(String genre){
         ArrayList<String> listOfMovies = new ArrayList<String>();
         try{

@@ -7,31 +7,60 @@ and open the template in the editor.
     Created on : Jan 18, 2017, 9:04:54 PM
     Author     : Arash
 */
-.blue { /* the dot before the name indicates class */
-    color: blue;
+
+.button {
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
 }
 
-#second_label { /* # indicates that we are using an id */
-    color:aquamarine;
+.action {
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue;
 }
-.red {
-    color:red;
+
+.action:hover{
+    background-color:blue; /* Green */
+    color: black;
+}
+.animated {
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue;
+}
+
+.animated:hover{
+    background-color:blue; /* Green */
+    color: black;
+}
+.comedy {
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue;
+}
+
+.comedy:hover{
+    background-color:blue; /* Green */
+    color: black;
+}
+.drama {
+    background-color: white; 
+    color: black; 
+    border: 2px solid blue;
+}
+
+.drama:hover{
+    background-color:blue; /* Green */
+    color: black;
 }
 
 .index {
     color: white;
-}
-.action { /* the dot before the name indicates class */
-    color: red;
-}
-
-.animated { /* # indicates that we are using an id */
-    color:yellow;
-}
-.comedy {
-    color:orange;
-}
-
-.Drama {
-    color:purple;
 }
